@@ -19,4 +19,4 @@ Former Architect turned **DevOps & Cloud Engineer**, bringing structural precisi
 - **Cloud Infrastructure:** Multi-AZ 3-Tier AWS VPCs, isolated database subnets, S3 VPC Endpoints, and DRY modular environments (`dev`/`prod`).
 - **Automated Delivery:** Keyless IAM-authenticated CI/CD pipelines building hardened containers, enforcing Trivy security gates, and syncing to AWS EKS via ArgoCD.
 - **Reliability & Self-Healing:** Custom PromQL alerting (`CPU > 80%`), OPA security/cost admission policies, and automated MTTR post-mortem remediation.
-🔗 Connect with me on LinkedIn](https://linkedin.com
+🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/eren-koçak-370a5222b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
